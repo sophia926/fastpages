@@ -4,4 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-Sophia is a student in APCSP!
+I'm Sophia Tang, a student in APCSP!
