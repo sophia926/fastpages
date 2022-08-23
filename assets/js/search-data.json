@@ -58,9 +58,7 @@
 
   
   
-
-  
-      ,"page1": {
+      ,"page0": {
           "title": "About Me",
           "content": "I’m Sophia Tang, a student in APCSP! :) I’m excited for this year! .",
           "url": "https://sophia926.github.io/fastpages/about/",
@@ -73,7 +71,7 @@
   
 
   
-      ,"page3": {
+      ,"page2": {
           "title": "Notes",
           "content": "Here, I will put notes about APCSP that I will collect throughout the year! .",
           "url": "https://sophia926.github.io/fastpages/notes/",
@@ -84,17 +82,7 @@
   
 
   
-  
-
-  
-
-  
-  
-
-  
-
-  
-      ,"page8": {
+      ,"page3": {
           "title": "Vocab",
           "content": "Throughout the year, I will put new vocabulary terms that I learn in APCSP here! .",
           "url": "https://sophia926.github.io/fastpages/vocab/",
@@ -102,6 +90,18 @@
           "date": ""
       }
       
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
   
 
   
