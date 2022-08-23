@@ -2,7 +2,7 @@
 toc: true
 layout: post
 description: My first markdown post for APCSP
-categories: [markdown]
+categories: [setup]
 title: My First Post
 ---
 # My First Post
