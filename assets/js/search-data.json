@@ -73,26 +73,48 @@
   
 
   
-  
-
-  
-
-  
-  
-
-  
-
-  
-  
-
-  
+      ,"page3": {
+          "title": "Notes",
+          "content": "Here, I will put notes about APCSP that I will collect throughout the year! .",
+          "url": "https://sophia926.github.io/fastpages/notes/",
+          "relUrl": "/notes/",
+          "date": ""
+      }
+      
   
 
   
   
 
   
-      ,"page10": {
+
+  
+  
+
+  
+
+  
+      ,"page8": {
+          "title": "Vocab",
+          "content": "Throughout the year, I will put new vocabulary terms that I learn in APCSP here! .",
+          "url": "https://sophia926.github.io/fastpages/vocab/",
+          "relUrl": "/vocab/",
+          "date": ""
+      }
+      
+  
+
+  
+  
+
+  
+  
+
+  
+  
+
+  
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://sophia926.github.io/fastpages/robots.txt",
