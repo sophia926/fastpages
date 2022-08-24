@@ -161,12 +161,12 @@ window.onload = wrap_img;
 <span class="c1"># Number of correct questions</span>
 <span class="n">correct</span> <span class="o">=</span> <span class="mi">0</span>
 
-<span class="nb">print</span><span class="p">(</span><span class="s1">'Hello, '</span> <span class="o">+</span> <span class="n">getpass</span><span class="o">.</span><span class="n">getuser</span><span class="p">()</span> <span class="o">+</span> <span class="s2">" running "</span> <span class="o">+</span> <span class="n">sys</span><span class="o">.</span><span class="n">executable</span><span class="p">)</span>
-<span class="nb">print</span><span class="p">(</span><span class="s2">"You will be asked "</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">questions</span><span class="p">)</span> <span class="o">+</span> <span class="s2">" questions."</span><span class="p">)</span>
-
-<span class="nb">print</span><span class="p">(</span><span class="s2">"Direction: Please type all your answers lowercase!"</span><span class="p">)</span>
+<span class="c1"># Setup</span>
+<span class="n">name</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">"What is your name? "</span><span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="s2">"Hello "</span> <span class="o">+</span> <span class="n">name</span> <span class="o">+</span> <span class="s2">". You will be asked "</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">questions</span><span class="p">)</span> <span class="o">+</span> <span class="s2">" questions about Python. Please type all your answers lowercase!"</span><span class="p">)</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">"Test starting..."</span><span class="p">)</span>
 
+<span class="c1"># These are the questions, also testing if the answer is correct or not</span>
 <span class="n">rsp</span> <span class="o">=</span> <span class="n">question_with_response</span><span class="p">(</span><span class="s2">"1. What command is used to include other functions that were previously developed?"</span><span class="p">)</span>
 <span class="k">if</span> <span class="n">rsp</span> <span class="o">==</span> <span class="s2">"import"</span><span class="p">:</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">rsp</span> <span class="o">+</span> <span class="s2">" is correct!"</span><span class="p">)</span>
@@ -223,8 +223,8 @@ window.onload = wrap_img;
 <span class="k">else</span><span class="p">:</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">rsp</span> <span class="o">+</span> <span class="s2">" is incorrect!"</span><span class="p">)</span>
 
-<span class="n">rsp</span> <span class="o">=</span> <span class="n">question_with_response</span><span class="p">(</span><span class="s2">"9. Can functions take parameters (yes/no)?"</span><span class="p">)</span>
-<span class="k">if</span> <span class="n">rsp</span> <span class="o">==</span> <span class="s2">"yes"</span><span class="p">:</span>
+<span class="n">rsp</span> <span class="o">=</span> <span class="n">question_with_response</span><span class="p">(</span><span class="s2">"9. What language are we learning?"</span><span class="p">)</span>
+<span class="k">if</span> <span class="n">rsp</span> <span class="o">==</span> <span class="s2">"python"</span><span class="p">:</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">rsp</span> <span class="o">+</span> <span class="s2">" is correct!"</span><span class="p">)</span>
     <span class="n">correct</span> <span class="o">+=</span> <span class="mi">1</span>
 <span class="k">else</span><span class="p">:</span>
@@ -237,7 +237,7 @@ window.onload = wrap_img;
 <span class="k">else</span><span class="p">:</span>
     <span class="nb">print</span><span class="p">(</span><span class="n">rsp</span> <span class="o">+</span> <span class="s2">" is incorrect!"</span><span class="p">)</span>
 
-<span class="nb">print</span><span class="p">(</span><span class="n">getpass</span><span class="o">.</span><span class="n">getuser</span><span class="p">()</span> <span class="o">+</span> <span class="s2">" you scored "</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">correct</span><span class="p">)</span> <span class="o">+</span><span class="s2">"/"</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">questions</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">name</span> <span class="o">+</span> <span class="s2">", you scored "</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">correct</span><span class="p">)</span> <span class="o">+</span><span class="s2">"/"</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">questions</span><span class="p">))</span>
 <span class="nb">print</span><span class="p">(</span><span class="s2">"Your percentage is"</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">correct</span><span class="o">/</span><span class="n">questions</span><span class="o">*</span><span class="mi">100</span><span class="p">)</span> <span class="o">+</span> <span class="s2">"%! Good work!"</span><span class="p">)</span>
 </pre></div>
 
