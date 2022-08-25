@@ -3,7 +3,7 @@ toc: true
 comments: true
 title: My First Week At School
 layout: post
-description: Description of my first week at school
+description: Description of my first week of being a sophomore at Del Norte High School
 image: /images/delnorte.jpg
 categories: [posts]
 ---
@@ -24,6 +24,18 @@ I have been enjoying APCSP so far because it is a chill period, and I enjoy the 
 I also enjoy AP Chem, and most of the work right now is review, but we are moving at a pretty fast pace. We did a paper chromatography lab on the first day in class, which I also liked.
 
 <img src="{{site.baseurl}}/images/happyemoji.jpg" width="40" height="Auto">
+
+### My Backpack
+My backpack is pretty light right now. This is what I have in my backpack everyday:
+1. 3-subject notebook for AP World History
+2. 1-inch binder for AP Chem
+3. 1 folder for all my classes
+4. 1 graphing notebook for AP Calc
+5. Some snacks for break
+6. My laptop and charger
+7. My lunch
+8. Pencil pouch
+9. Water
 
 ### Summary
 I enjoyed my first week of school and am looking forward to the rest of the school yar! :)
