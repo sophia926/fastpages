@@ -24,10 +24,10 @@ I have considered the search feature because I name all my posts and notebooks w
 
 ### Hack #5: Table
 Here is my schedule at school!
-| Period | Course Title | Room Name | Teacher | My Thoughts |
-| :--- | :---: | ---: | :--- | :--- |
-| 1 | AP Calculus AB | L102 | Ms. Nydam | Pretty fun in general |
-| 2 | Honors Humanities 1 | G117 | Mrs. Philyaw | Interesting studyng meaning of aesthetics/art |
-| 3 | AP World History 1 | L114 | Ms. Volger | Actually better than I expected, one of my favorite classes |
-| 4 | AP CS Principles 1 | D103 | Mr. Yeung | Different than I expected, but pretty chill |
-| 5 | AP Chemistry 4 | K104 | Mrs. Callicott | I liked teh first two labs that we have done! |
+| Period | Course Title       | Room Name | Teacher        | My Thoughts                                                 |
+|--------|--------------------|-----------|----------------|-------------------------------------------------------------|
+| 1      | AP Calculus AB     | L102      | Ms. Nydam      | Pretty fun in general                                       |
+| 2      | Honors Humanities  | G117      | Mrs. Philyaw   | Interesting studying meaning of aesthetics/art              |
+| 3      | AP World History 1 | L114      | Ms. Volger     | Actually better than I expected, one of my favorite classes |
+| 4      | AP CS Principles 1 | D103      | Mr. Yeung      | Different than I expected, but pretty chill                 |
+| 5      | AP Chemistry 4     | K104      | Mrs. Callicott | I liked the first two labs that we have done!               |
