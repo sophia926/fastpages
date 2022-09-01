@@ -23,7 +23,7 @@ I have incorporated naming and tagging into my fastpages blog because I have cat
 I have considered the search feature because I name all my posts and notebooks with specific keywords and also tag them, so it is easy to find.
 
 ### Hack #5: Table
-
+Here is my school schedule!
 <table>
 <thead>
   <tr>
