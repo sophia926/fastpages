@@ -25,7 +25,7 @@ I have considered the search feature because I name all my posts and notebooks w
 ### Hack #5: Table
 Here is my schedule at school!
 | Period | Course Title | Room Name | Teacher | My Thoughts |
-| :--- | :----: | ----: | :----- | :----- |
+| :--- | :---: | ---: | :--- | :--- |
 | 1 | AP Calculus AB | L102 | Ms. Nydam | Pretty fun in general |
 | 2 | Honors Humanities 1 | G117 | Mrs. Philyaw | Interesting studyng meaning of aesthetics/art |
 | 3 | AP World History 1 | L114 | Ms. Volger | Actually better than I expected, one of my favorite classes |
