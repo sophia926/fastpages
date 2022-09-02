@@ -72,3 +72,6 @@ Here is my school schedule!
   </tr>
 </tbody>
 </table>
+
+### Hack #6: Dark Mode
+I have changed my site to dark mode, which you can see!
