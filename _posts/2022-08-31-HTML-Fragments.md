@@ -27,23 +27,27 @@ You can also see a time box of my activity that I created below:
 <tbody>
   <tr>
     <td>Installed VSCode</td>
-    <td>Personalized my fastpages</td>
-    <td>Created a Jupyter notebook post</td>
-    <td>Used Github insights</td>
-    <td>-</td>
-  </tr>
-  <tr>
     <td>Installed Bash and created a Bash notebook</td>
-    <td>Wrote a personal blog post</td>
-    <td>Created a Python quiz</td>
-    <td>Uploaded own word document</td>
-    <td>Added notes and vocab pages</td>
+    <td>Dictionary/lists hacks</td>
   </tr>
   <tr>
-    <td>Dictionary/lists hacks</td>
+    <td>Personalized my fastpages</td>
+    <td>Wrote a personal blog post</td>
     <td>Dark mode</td>
-    <td>Changed theme to midnight and then reverted it</td>
+  </tr>
+  <tr>
+    <td>Created a Jupyter notebook post</td>
+    <td>Created a Python quiz</td>
+    <td>Changed theme to midnight temporarily</td>
+  </tr>
+  <tr>
+    <td>Personalized index.html</td>
+    <td>Uploaded own word document</td>
     <td>Added some tables (including this one)</td>
+  </tr>
+  <tr>
+    <td>-</td>
+    <td>Added notes and vocab pages</td>
     <td>Added to notes+vocab pages</td>
   </tr>
 </tbody>
