@@ -14,13 +14,48 @@ Here are two screenshots as evidence that I changed the theme from minima to the
 <img src="{{site.baseurl}}/images/midnight2.jpg">
 
 ### Hack #2: Time Box Fragments
-Here is a link to [my commit history on Github](https://github.com/sophia926/fastpages/graphs/commit-activity)
+Here is a link to [my commit history on Github](https://github.com/sophia926/fastpages/graphs/commit-activity). You can see all the commits I have done, with comments on what they exactly do. It shows that I am continuously updating my blog and making progress!
+You can also see a time box of my activity that I created below:
+<table>
+<thead>
+  <tr>
+    <th>Week 0</th>
+    <th>Week 1</th>
+    <th>Week 2</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Installed VSCode</td>
+    <td>Personalized my fastpages</td>
+    <td>Created a Jupyter notebook post</td>
+    <td>Used Github insights</td>
+  </tr>
+  <tr>
+    <td>Installed Bash and created a Bash notebook</td>
+    <td>Wrote a personal blog post</td>
+    <td>Created a Python quiz</td>
+    <td>Uploaded own word document</td>
+    <td>Personalized my index.html</td>
+    <td>Added notes and vocab pages</td>
+  </tr>
+  <tr>
+    <td>Dictionary/lists hacks</td>
+    <td>Dark mode</td>
+    <td>Changed theme to midnight and then reverted it</td>
+    <td>Added some tables (including this one)</td>
+    <td>Added to notes+vocab pages</td>
+  </tr>
+</tbody>
+</table>
 
 ### Hack #3: Naming/Tagging
-I have incorporated naming and tagging into my fastpages blog because I have categories for hacks, posts, and setup.
+I have incorporated naming and tagging into my fastpages blog because I have categories for hacks, posts, and setup. Here is an image that shows this.
+<img src="{{site.baseurl}}/images/tags.jpg">
 
 ### Hack #4: Search
-I have considered the search feature because I name all my posts and notebooks with specific keywords and also tag them, so it is easy to find.
+I have considered the search feature because I name all my posts and notebooks with specific keywords and also tag them, so it is easy to find. Here is a screenshot of me utilizing the search feature.
+<img src="{{site.baseurl}}/images/search.jpg">
 
 ### Hack #5: Table
 Here is my school schedule!
