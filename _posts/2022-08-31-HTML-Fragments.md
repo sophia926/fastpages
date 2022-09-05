@@ -30,13 +30,13 @@ You can also see a time box of my activity that I created below:
     <td>Personalized my fastpages</td>
     <td>Created a Jupyter notebook post</td>
     <td>Used Github insights</td>
+    <td>-</td>
   </tr>
   <tr>
     <td>Installed Bash and created a Bash notebook</td>
     <td>Wrote a personal blog post</td>
     <td>Created a Python quiz</td>
     <td>Uploaded own word document</td>
-    <td>Personalized my index.html</td>
     <td>Added notes and vocab pages</td>
   </tr>
   <tr>
