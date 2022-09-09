@@ -10,7 +10,7 @@ categories: [app]
 ### Reveiw Running Example
 The [incomplete program](https://studio.code.org/projects/applab/rEkq6_-HMk-W8WkN1WoZFm45pdGoioqK4ur9sYYve6Q) example could be improved because it only goes to the next question when you cick on the right answer, which is pretty confusing. If someone clicks the wrong answer, the quiz should move on and document that as a wrong answer. And then at the end, the quiz should display the score and percentage of the user.
 
-### My Quiz Plan
+### Quiz Planning!
 Here is my quiz plan.
 
 Quiz topic: foods
@@ -54,3 +54,15 @@ Some successes that I had were that I sucessfully created a 5-question food quiz
 
 ### Link to Quiz
 Here is a [link](https://studio.code.org/projects/applab/V_oDt5yy_qq1Xr8AzGKbiO_LCN-sBTvUuMT7Y8u4p-I) to my quiz if you want to play it.
+
+### Quiz Design
+Here is an image of what my quiz looks like:
+<img src="{{site.baseurl}}/images/quizimage.jpg">
+
+### Quiz Code
+Here is an image of my quiz code:
+<img src="{{site.baseurl}}/images/quizcode.jpg">
+
+### Quiz Debugging
+Here is an image of me debugging the quiz by utliizing the console! It prints the user's score on the quiz :)
+<img src="{{site.baseurl}}/images/quizconsole.jpg">

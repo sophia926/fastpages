@@ -36,6 +36,26 @@ These are the functions I plan to have:
 
 I will most likely code this in Python.
 
+### How My Quiz Meets the CollegeBoard Requirements
+
+#### Program Purpose and Function
+The purpose of my program is to enhance the productivity of the user by providing them todo list and goal features. The user inputs everything they want to do and then my program provides them with different functionalities for output.
+
+#### Data Abstraction
+The todo list data and goal data will be stored in databases and lists.
+
+#### Managing Complexity
+The database and list will manage the complexity of the program because it is necessary for filtering and displaying.
+
+#### Procedural Abstraction
+I will create functions for filtering the data for the user to see, which is a procedural abstraction.
+
+#### Algorithm Implementation
+I will create functions for sequencing, selecting, and iterating for displaying the goals and todo lists, which satisfies this condition.
+
+#### Testing
+When the user interacts with the program, it will constantly call the functions I will code, which satisfies this requirement.
+
 ### AP Exam MCQ
 I will prepare for the AP exam MCQ by taking adequate notes every week in my blog and also blogging my findings and discoveries. This way, I can just review all of these things in one place before the AP exam. This is time efficient becaues I don't need to search in many places.
 
