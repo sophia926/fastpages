@@ -45,7 +45,7 @@ My idea for the performance create task is above.
 
 ### What I Did This Week
 This is a list of what I did this week.
-- Create an app using code.org
+- Created a [quiz](https://studio.code.org/projects/applab/V_oDt5yy_qq1Xr8AzGKbiO_LCN-sBTvUuMT7Y8u4p-I) using code.org
     - I did a five-question (more than the 3-question requirement!) quiz on food.
     - It tells you immediately after the question if you got it right or wrong, and then you can click to go to the next question.
     - At the end of the quiz, it shows your quiz score and percentage after! :) (not part of the requirements!)
