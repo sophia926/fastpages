@@ -51,3 +51,6 @@ Some challenges I had were that you couldn't copy paste the blocks, but then I l
 
 ### Successes
 Some successes that I had were that I sucessfully created a 5-question food quiz, which tells you if you got the answer right or wrong after you click on an answer, and then at the end, it shows your score.
+
+### Link to Quiz
+Here is a [link](https://studio.code.org/projects/applab/V_oDt5yy_qq1Xr8AzGKbiO_LCN-sBTvUuMT7Y8u4p-I) to my quiz if you want to play it.
