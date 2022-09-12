@@ -63,6 +63,25 @@ I will also do some practice MCQs via CollegeBoard and other practice tests.
 
 My idea for the performance create task is above.
 
+### Sprint Backlog
+<b>Here is my sprint backlog</b>
+<table>
+<thead>
+  <tr>
+    <th>Educational Zones</th>
+    <th>Interest/Fun Zones</th>
+    <th>Blogging and Review Zones</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Start looking at CollegeBoard videos and doing practice MCQs</td>
+    <td>Code fun things that I want to do, such as the performance task</td>
+    <td>Update my notes and vocab page each week with what I learned</td>
+  </tr>
+</tbody>
+</table>
+
 ### What I Did This Week
 This is a list of what I did this week.
 - Created a [quiz](https://studio.code.org/projects/applab/V_oDt5yy_qq1Xr8AzGKbiO_LCN-sBTvUuMT7Y8u4p-I) using code.org
