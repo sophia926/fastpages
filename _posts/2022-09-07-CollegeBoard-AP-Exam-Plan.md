@@ -4,7 +4,7 @@ comments: true
 title: Collegeboard AP Exam Plan
 layout: post
 description: This is my plan of how I will prepare for the Collegeboard AP Exam.
-categories: [collegeboard]
+categories: [week3, collegeboard]
 ---
 
 ### Performance Task Plan

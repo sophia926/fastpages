@@ -4,7 +4,7 @@ comments: true
 title: Program Design with App Lab
 layout: post
 description: This is my documentation of program design in AppLab by code.org
-categories: [app]
+categories: [week3]
 ---
 
 ### Reveiw Running Example

@@ -4,7 +4,7 @@ comments: true
 title: HTML Fragments
 layout: post
 description: Here are my HTML Fragments hacks!
-categories: [hacks]
+categories: [week2, hacks]
 ---
 
 

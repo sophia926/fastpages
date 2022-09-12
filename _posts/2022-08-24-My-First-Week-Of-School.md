@@ -5,7 +5,7 @@ title: My First Week At School
 layout: post
 description: Description of my first week of being a sophomore at Del Norte High School
 image: /images/delnorte.jpg
-categories: [posts]
+categories: [week1, posts]
 ---
 
 ### Period 1: AP Calc
