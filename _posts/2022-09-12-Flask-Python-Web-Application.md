@@ -3,8 +3,8 @@ toc: true
 comments: true
 title: Flask/Python Web Application
 layout: post
-description: This is my plan of how I will prepare for the Collegeboard AP Exam.
-categories: [collegeboard, week4]
+description: This is me implementing the flask/python web application
+categories: [python, week4]
 ---
 
 ### Hacks
