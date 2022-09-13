@@ -17,6 +17,9 @@ I have also changed the Stub.html which automatically updated on my site, which 
 This is evidence that I successfully pushed the above changes to Github.
 <img src="{{site.baseurl}}/images/pythonflask3.jpg">
 
+I also changed the Stub.html even more and added my school schedule :)
+<img src="{{site.baseurl}}/images/pythonflask4.jpg">
+
 I have locally edited, saved, and refreshed the Web Server, which are reflected in the images above.
 
 The local ip address that it runs on (http://127.0.0.1:5000/) is basically my localhost and will not be available to other people to see because they are not running my computer and are therefore not local.
