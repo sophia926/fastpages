@@ -21,5 +21,5 @@ categories: [collegeboard, week4]
 - Collaboration tools: repl.it, github (what our APCSP class is using), shared doc/folder
 
 ### Collaboration Quiz
-I completed the collaboration quiz on Collegeboard, here is a screenshot.
+I completed the collaboration quiz on Collegeboard, here is a screenshot!
 <img src="{{site.baseurl}}/images/collaborationquiz.jpg">
