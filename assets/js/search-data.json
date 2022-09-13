@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Flask/Python Web Application",
-            "content": "Hacks . I have implemented the Python/Flask web server on my localhost, and you can see a screenshot of it working below. . I have also changed the Stub.html which automatically updated on my site, which demonstrates that my python server is working. Here is an image of the chnaged Stub.html . This is evidence that I successfully pushed the above changes to Github. .",
+            "content": "Hacks . I have implemented the Python/Flask web server on my localhost, and you can see a screenshot of it working below. . I have also changed the Stub.html which automatically updated on my site, which demonstrates that my python server is working. Here is an image of the changed Stub.html that I coded. . This is evidence that I successfully pushed the above changes to Github. . I have locally edited, saved, and refreshed the Web Server, which are reflected in the images above. . The local ip address that it runs on (http://127.0.0.1:5000/) is basically my localhost and will not be available to other people to see because they are not running my computer and are therefore not local. .",
             "url": "https://sophia926.github.io/fastpages/python/week4/2022/09/12/Flask-Python-Web-Application.html",
             "relUrl": "/python/week4/2022/09/12/Flask-Python-Web-Application.html",
             "date": " • Sep 12, 2022"
