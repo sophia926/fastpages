@@ -22,3 +22,4 @@ categories: [collegeboard, week4]
 
 ### Collaboration Quiz
 I completed the collaboration quiz on Collegeboard, here is a screenshot.
+<img src="{{site.baseurl}}/images/collaborationquiz.jpg">
