@@ -23,3 +23,8 @@ categories: [collegeboard, week4]
 ### Collaboration Quiz
 I completed the collaboration quiz on Collegeboard, here is a screenshot!
 <img src="{{site.baseurl}}/images/collaborationquiz.jpg">
+
+### Hack Questions
+1. My group setup is not strictly on the basis of current friends and common interests because we did not know each other before but now have become friends.
+2. My group setup is with diversity because we all have varying computer science levels and also we both boys and girls. We have a diverse backgrounds: Taiwanese, Korean, Chinese, and Israelian.
+3. My group is best equipped for the skill sets needed for success in classrooms because we can work together very well.
