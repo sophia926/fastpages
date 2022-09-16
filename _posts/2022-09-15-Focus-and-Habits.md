@@ -10,7 +10,6 @@ categories: [week4]
 ### Psychology and the Good Life Notes
 Here are my notes from the video:
 
-
 ### Gratitude List
 I am grateful for many things. Here are some:
 - friends and family
@@ -36,3 +35,6 @@ Here are some goals I want to set.
 
 ### My Personal Journey for Computer Science
 I want to learn a lot in this APCSP class. I also want to join a coding club at school. Also, I want to learn some more coding, like Python and C++.
+
+### Something I Did For Myself
+On Thursday (9/15), I cooked something I wanted to for a long time. I was very stressed from my workload and all the work I had to do, but I wnated to take a step back and just de-stress. This would help my mood and minset to be more productive after dinner! So I made avocado pasta and it actually turned out pretty good :) My mom also liked it!
