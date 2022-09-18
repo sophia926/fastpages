@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Fastpages Local Server",
-            "content": "I have successfully ran my fastpages locally and I am able to see the changes immediately on my local server instead of first pushing it through github! Here is a screenshot of my fastpages running on my lcaol server. . In the image above, you can see that the URL is not my permanent fastpages link, but it is my fastpages running on my local server at http://localhost:4000/fastpages/ which will not work on any other computer other than minie when I run it on my laptop. .",
+            "content": "I have successfully ran my fastpages locally and I am able to see the changes immediately on my local server instead of first pushing it through github! Here is a screenshot of my fastpages running on my local server. . In the image above, you can see that the URL is not my permanent fastpages link, but it is my fastpages running on my local server at http://localhost:4000/fastpages/ which will not work on any other computer other than minie when I run it on my laptop. .",
             "url": "https://sophia926.github.io/fastpages/week4/2022/09/16/Fastpages-Local-Server.html",
             "relUrl": "/week4/2022/09/16/Fastpages-Local-Server.html",
             "date": " • Sep 16, 2022"
