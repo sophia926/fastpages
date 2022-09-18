@@ -9,6 +9,26 @@ categories: [week4]
 
 ### Psychology and the Good Life Notes
 Here are my notes from the video:
+1. This enterprise if possible:
+- We can improve our well-being, and we can control much more than we think.
+2. Circumstances don't matter *that* much.
+- We think life's circumstances matter a lot, but they don't matter as much as we think. For example, winning the loterry. What we think will make us happy often doesn't after some time, and the vice versa is true. Perhaps life circumstances only affect 10%.
+3. Taking control of it, is kind of hard.
+- You can bump up your own well-being if you do it everyday. You need to have permanent changes and be consistent with it. It's going to take some work. You have to put the stuff in practice, not just learning it.
+4. One of the hard you have to do when you begin this enterprise, is recognizing your intuitions don't work.
+- Your mind is lying to you a lot of the time when you think you're happy. For example, illusions tric your mind so you can't fully rely on your mind! We forecast stuff that will make us happy, when in reality it doesn't in the end. For example, we predict that we need more money to be happy (choosing a job based on salary), but when are you going to be satisfied? Ever?
+5. Make time for social connection
+- Prioritize the people you care about in life. Spend more time with others, family, friends, loved ones. Spend less time alone.
+6. Helping others
+- Helping others help us more than we expect! Happy people give their time to others and spend money on others.
+7. Make time for gratitude
+- Many people talk about their hassles in life (ugh, that person is so annoying) rather than the other 99% of people that make your life great! You can make a gratitude list or even express your gratitude with a letter, for example.
+8. Healthy practices matter
+- Exercise (1/2 hour of cardio a day is the equivalent of anti-depressants), sleep (current HS students average 4-5 hours a night). These all improve mood GREATLY!
+9. Taking time in the present moment
+- Don't be distracted by your electronics, phones, etc. Realize you are in the present!
+10. Become wealthy (in terms of time)
+- Don't have a time famine ("I don't have time for anything!") People who priotize time over money have a better well-being.
 
 ### Gratitude List
 I am grateful for many things. Here are some:
