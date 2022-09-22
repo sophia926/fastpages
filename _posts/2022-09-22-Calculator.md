@@ -16,8 +16,8 @@ categories: [week5]
 </head>
 <body>
 
-<p>Enter Number A: <input id="userNum"></p>
-<p>Enter Number B: <input id="testNum"></p>
+<p id="userNum">Enter Number A: <input id="userNum"></p>
+<p id="testNum">Enter Number B: <input id="testNum"></p>
 <button type="button" onclick="lessThan()">Submit</button>
 <p id="a">Value A: </p>
 <p id="b">Value B: </p>
