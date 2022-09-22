@@ -32,7 +32,7 @@ function lessThan()
 <p>Enter Number A: <input id="userNum">
 Enter Number B: <input id="testNum">
 <button onclick="lessThan()">Submit</button></p>
-<p id="result"></p>
+<p id="result">hello</p>
 
 </body>
 </html>
