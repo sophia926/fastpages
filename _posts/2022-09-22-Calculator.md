@@ -12,12 +12,23 @@ categories: [week5]
 <!doctype html>
 <html>
 <head>
+<meta charset="utf-8">
+</head>
+<body>
+
+<p>Enter Number A: <input id="userNum"></p>
+<p>Enter Number B: <input id="testNum"></p>
+<button type="button" onclick="lessThan()">Submit</button>
+<p id="a">Value A: </p>
+<p id="b">Value B: </p>
+<p id="result">hello</p>
 <script>
-function lessThan()
-{
+function lessThan() {
   var userVal, compareVal;
   userVal = parseInt(document.getElementById("userNum").value);
   compareVal = parseInt(document.getElementbyId("testNum").value);
+  document.GetElementbyId("a").innerHTML = (userVal);
+  document.GetElementbyId("b").innerHTML = (compareVal);
   if (userVal<compareVal)
   {
     document.GetElementbyId("result").innerHTML = (userVal, " is less than", compareVal);
@@ -26,13 +37,6 @@ function lessThan()
   }
 }
 </script>
-</head>
-<body>
-
-<p>Enter Number A: <input id="userNum">
-Enter Number B: <input id="testNum">
-<button onclick="lessThan()">Submit</button></p>
-<p id="result">hello</p>
 
 </body>
 </html>
