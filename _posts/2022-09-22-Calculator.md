@@ -2,6 +2,7 @@
 title: Less than or Greater Than
 comments: true
 layout: default
+permalink: /java/calculator
 description: This program checks if a number is greater or less than a number.
 categories: [week5]
 ---
