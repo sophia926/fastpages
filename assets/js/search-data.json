@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Less than or Greater Than",
-            "content": "| Calculator | . &lt;!doctype html&gt; . . Enter Number A: Enter Number B: Submit . hello . .",
+            "content": "| Calculator | . &lt;!doctype html&gt; . . Enter Number A: . Enter Number B: . Submit Value A: . Value B: . hello . .",
             "url": "https://sophia926.github.io/fastpages/java/calculator",
             "relUrl": "/java/calculator",
             "date": " • Sep 22, 2022"
