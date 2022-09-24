@@ -14,11 +14,11 @@
 <meta property="og:url" content="https://sophia926.github.io/fastpages/java/calculator" />
 <meta property="og:site_name" content="APCSP Sophia" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2022-09-22T00:00:00-05:00" />
+<meta property="article:published_time" content="2022-09-23T00:00:00-05:00" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Less than or Greater Than" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-09-22T00:00:00-05:00","datePublished":"2022-09-22T00:00:00-05:00","description":"This program checks if a number is greater or less than a number.","headline":"Less than or Greater Than","mainEntityOfPage":{"@type":"WebPage","@id":"https://sophia926.github.io/fastpages/java/calculator"},"url":"https://sophia926.github.io/fastpages/java/calculator"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2022-09-23T00:00:00-05:00","datePublished":"2022-09-23T00:00:00-05:00","description":"This program checks if a number is greater or less than a number.","headline":"Less than or Greater Than","mainEntityOfPage":{"@type":"WebPage","@id":"https://sophia926.github.io/fastpages/java/calculator"},"url":"https://sophia926.github.io/fastpages/java/calculator"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/fastpages/assets/css/style.css"><link type="application/atom+xml" rel="alternate" href="https://sophia926.github.io/fastpages/feed.xml" title="APCSP Sophia" /><link rel="shortcut icon" type="image/x-icon" href="/fastpages/images/favicon.ico"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Primer/15.2.0/primer.css" integrity="sha512-xTz2ys4coGAOz8vuV1NcQBkgVmKhsSEtjbqyMJbBHRplFuvKIUo6xhLHpAyPt9mfR6twHJgn9OgVLuqOvjeBhg==" crossorigin="anonymous" />
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous" />
@@ -77,55 +77,52 @@ window.onload = wrap_img;
         <td><a href="/fastpages/java/doc">Java Documentation</a></td>
     </tr>
 </table>
-<html> 
-<head>
-    <title>JavaScript program to calculate multiplication and division of two numbers </title>
-    <style type="text/css">
-    body {margin: 30px;}
-    </style> 
-</head>
-<body>
 
-<form>
-    <h1>Here is a simple calculator made by Sophia Tang!</h1>
-    <mark>Enter two numbers in the following boxes, and then you can perform calculations :)<br /></mark>
-    1st Number: <input type="text" id="firstNumber" /><br />
-    2nd Number: <input type="text" id="secondNumber" /><br />
-    <input type="button" onclick="multiplyBy()" value="Multiply" />
-    <input type="button" onclick="divideBy()" value="Divide" />
-    <input type="button" onclick="subtract()" value="Subtract" />
-    <input type="button" onclick="add()" value="Add" />
-</form>
-    <p>The Result is: <br />
-    <span id="result"></span>
-</p>
+<p>// define an HTML conversion “method” associated with Classroom
+Classroom.prototype._toHtml = function() {
+    // HTML Style is build using inline structure
+    var style = (
+      “display:inline-block;” +
+      “border: 2px solid grey;” +
+      “box-shadow: 0.8em 0.4em 0.4em grey;”
+    );</p>
 
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>// HTML Body of Table is build as a series of concatenations (+=)
+var body = "";
+// Heading for Array Columns
+body += "&lt;tr&gt;";
+body += "&lt;th&gt;&lt;mark&gt;" + "Name" + "&lt;/mark&gt;&lt;/th&gt;";
+body += "&lt;th&gt;&lt;mark&gt;" + "GitHub ID" + "&lt;/mark&gt;&lt;/th&gt;";
+body += "&lt;th&gt;&lt;mark&gt;" + "Class Of" + "&lt;/mark&gt;&lt;/th&gt;";
+body += "&lt;th&gt;&lt;mark&gt;" + "Role" + "&lt;/mark&gt;&lt;/th&gt;";
+body += "&lt;/tr&gt;";
+// Data of Array, iterate through each row of compsci.classroom 
+for (var row of compsci.classroom) {
+  // tr for each row, a new line
+  body += "&lt;tr&gt;";
+  // td for each column of data
+  body += "&lt;td&gt;" + row.name + "&lt;/td&gt;";
+  body += "&lt;td&gt;" + row.ghID + "&lt;/td&gt;";
+  body += "&lt;td&gt;" + row.classOf + "&lt;/td&gt;";
+  body += "&lt;td&gt;" + row.role + "&lt;/td&gt;";
+  // tr to end line
+  body += "&lt;tr&gt;";
+}
+  
+ // Build and HTML fragment of div, table, table body
+return (
+  "&lt;div style='" + style + "'&gt;" +
+    "&lt;table&gt;" +
+      body +
+    "&lt;/table&gt;" +
+  "&lt;/div&gt;"
+);
+</code></pre></div></div>
 
-<script>
-    function multiplyBy() {
-        num1 = document.getElementById("firstNumber").value;
-        num2 = document.getElementById("secondNumber").value;
-        document.getElementById("result").innerHTML = num1 * num2;
-    }
-    function divideBy() { 
-        num1 = document.getElementById("firstNumber").value;
-        num2 = document.getElementById("secondNumber").value;
-        document.getElementById("result").innerHTML = num1 / num2;
-    }
-    function subtract() {
-        num1 = document.getElementById("firstNumber").value;
-        num2 = document.getElementById("secondNumber").value;
-        document.getElementById("result").innerHTML = num1 - num2;
-    }
-    function add() { 
-        num1 = parseInt(document.getElementById("firstNumber").value);
-        num2 = parseInt(document.getElementById("secondNumber").value);
-        document.getElementById("result").innerHTML = (num1 + num2);
-    }
-</script>
+<p>};</p>
 
-</body>
-</html>
+<p>// IJavaScript HTML processor receive parameter of defined HTML fragment
+  $$.html(compsci._toHtml());</p>
 
       </div>
     </main><footer class="site-footer h-card">
