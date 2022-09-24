@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Less than or Greater Than",
-            "content": "| Calculator | Java Documentation | . // define an HTML conversion “method” associated with Classroom Classroom.prototype._toHtml = function() { // HTML Style is build using inline structure var style = ( “display:inline-block;” + “border: 2px solid grey;” + “box-shadow: 0.8em 0.4em 0.4em grey;” ); . // HTML Body of Table is build as a series of concatenations (+=) var body = &quot;&quot;; // Heading for Array Columns body += &quot;&lt;tr&gt;&quot;; body += &quot;&lt;th&gt;&lt;mark&gt;&quot; + &quot;Name&quot; + &quot;&lt;/mark&gt;&lt;/th&gt;&quot;; body += &quot;&lt;th&gt;&lt;mark&gt;&quot; + &quot;GitHub ID&quot; + &quot;&lt;/mark&gt;&lt;/th&gt;&quot;; body += &quot;&lt;th&gt;&lt;mark&gt;&quot; + &quot;Class Of&quot; + &quot;&lt;/mark&gt;&lt;/th&gt;&quot;; body += &quot;&lt;th&gt;&lt;mark&gt;&quot; + &quot;Role&quot; + &quot;&lt;/mark&gt;&lt;/th&gt;&quot;; body += &quot;&lt;/tr&gt;&quot;; // Data of Array, iterate through each row of compsci.classroom for (var row of compsci.classroom) { // tr for each row, a new line body += &quot;&lt;tr&gt;&quot;; // td for each column of data body += &quot;&lt;td&gt;&quot; + row.name + &quot;&lt;/td&gt;&quot;; body += &quot;&lt;td&gt;&quot; + row.ghID + &quot;&lt;/td&gt;&quot;; body += &quot;&lt;td&gt;&quot; + row.classOf + &quot;&lt;/td&gt;&quot;; body += &quot;&lt;td&gt;&quot; + row.role + &quot;&lt;/td&gt;&quot;; // tr to end line body += &quot;&lt;tr&gt;&quot;; } // Build and HTML fragment of div, table, table body return ( &quot;&lt;div style=&#39;&quot; + style + &quot;&#39;&gt;&quot; + &quot;&lt;table&gt;&quot; + body + &quot;&lt;/table&gt;&quot; + &quot;&lt;/div&gt;&quot; ); . }; . // IJavaScript HTML processor receive parameter of defined HTML fragment $$.html(compsci._toHtml()); .",
-            "url": "https://sophia926.github.io/fastpages/java/calculator",
-            "relUrl": "/java/calculator",
+            "title": "Table",
+            "content": "| Calculator | Java Documentation | Table | . .",
+            "url": "https://sophia926.github.io/fastpages/java/table",
+            "relUrl": "/java/table",
             "date": " • Sep 23, 2022"
         }
         
@@ -25,7 +25,7 @@
     
         ,"post2": {
             "title": "Less than or Greater Than",
-            "content": "| Calculator | Java Documentation | . JavaScript program to calculate multiplication and division of two numbers . Here is a simple calculator made by Sophia Tang! . Enter two numbers in the following boxes, and then you can perform calculations :) 1st Number: 2nd Number: The Result is: . .",
+            "content": "| Calculator | Java Documentation | Table | . JavaScript program to calculate multiplication and division of two numbers . Here is a simple calculator made by Sophia Tang! . Enter two numbers in the following boxes, and then you can perform calculations :) 1st Number: 2nd Number: The Result is: . .",
             "url": "https://sophia926.github.io/fastpages/java/calculator",
             "relUrl": "/java/calculator",
             "date": " • Sep 22, 2022"
