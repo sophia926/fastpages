@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Table",
-            "content": "| Calculator | Java Documentation | Table | . .",
+            "content": "| Calculator | Table | . Here is a table . .",
             "url": "https://sophia926.github.io/fastpages/java/table",
             "relUrl": "/java/table",
             "date": " • Sep 23, 2022"
@@ -25,7 +25,7 @@
     
         ,"post2": {
             "title": "Less than or Greater Than",
-            "content": "| Calculator | Java Documentation | Table | . JavaScript program to calculate multiplication and division of two numbers . Here is a simple calculator made by Sophia Tang! . Enter two numbers in the following boxes, and then you can perform calculations :) 1st Number: 2nd Number: The Result is: . .",
+            "content": "| Calculator | Table | . JavaScript program to calculate multiplication and division of two numbers . Here is a simple calculator made by Sophia Tang! . Enter two numbers in the following boxes, and then you can perform calculations :) 1st Number: 2nd Number: The Result is: . .",
             "url": "https://sophia926.github.io/fastpages/java/calculator",
             "relUrl": "/java/calculator",
             "date": " • Sep 22, 2022"
