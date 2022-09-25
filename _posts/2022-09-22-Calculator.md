@@ -1,9 +1,9 @@
 ---
-title: Less than or Greater Than
+title: Calculator
 comments: true
 layout: default
 permalink: /java/calculator
-description: This program checks if a number is greater or less than a number.
+description: This program is a simple calculator.
 categories: [week5]
 ---
 
