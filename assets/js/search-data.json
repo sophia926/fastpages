@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "JavaScript Documentation",
-            "content": "| Calculator | Food Ratings | . . What I did . Submenu . I created a submenu which shows usage of Jupyter JavaScript kernel. . Calculator . I created a simple calculator, which you can go to by clicking the above link in the header or by clicking this. . In this calculator, I demonstrated that I can use javascript and HTML. Here is an image of my code that I wrote :) .",
+            "content": "| JavaScript Documentation | Calculator | Food Ratings | . . What I did . Submenu . I created a submenu which shows usage of Jupyter JavaScript kernel. . Calculator . I created a simple calculator, which you can go to by clicking the above link in the header or by clicking this. . In this calculator, I demonstrated that I can use javascript and HTML. Here is an image of my code that I wrote :) . Food Ratings . I also created a food ratings table, which you can go to by clicking the above link in the header or by clicking this. . In this food ratings, I demonstrated JS and HTML. Here is an image of my code that I wrote :) .",
             "url": "https://sophia926.github.io/fastpages/week5/2022/09/24/My-JavaScript.html",
             "relUrl": "/week5/2022/09/24/My-JavaScript.html",
             "date": " • Sep 24, 2022"
@@ -14,7 +14,7 @@
     
         ,"post1": {
             "title": "Food Ratings",
-            "content": "| Calculator | Food Ratings | . . Here is a food table made by Sophia Tang! . How this works: . Enter the EXACT name of the food on the left column in the &quot;Food&quot; box | Enter a new rating of how you rate the food | Press the &quot;Press to Change Rating!&quot; button and then watch the magic happen! | Food Name Cuisine Rating (/10) . Noodles | Chinese | 9 | . Pasta | Italian | 7 | . Pancakes | American | 4 | . Food: Rating: .",
+            "content": "| JavaScript Documentation | Calculator | Food Ratings | . . Here is a food table made by Sophia Tang! . How this works: . Enter the EXACT name of the food on the left column in the &quot;Food&quot; box | Enter a new rating of how you rate the food | Press the &quot;Press to Change Rating!&quot; button and then watch the magic happen! | Food Name Cuisine Rating (/10) . Noodles | Chinese | 9 | . Pasta | Italian | 7 | . Pancakes | American | 4 | . Food: Rating: .",
             "url": "https://sophia926.github.io/fastpages/java/foodratings",
             "relUrl": "/java/foodratings",
             "date": " • Sep 24, 2022"
@@ -36,7 +36,7 @@
     
         ,"post3": {
             "title": "Less than or Greater Than",
-            "content": "| Calculator | Food Ratings | . JavaScript program to calculate multiplication and division of two numbers . Here is a simple calculator made by Sophia Tang! . Enter two numbers in the following boxes, and then you can perform calculations :) 1st Number: 2nd Number: The Result is: . .",
+            "content": "| JavaScript Documentation | Calculator | Food Ratings | . JavaScript program to calculate multiplication and division of two numbers . Here is a simple calculator made by Sophia Tang! . Enter two numbers in the following boxes, and then you can perform calculations :) 1st Number: 2nd Number: The Result is: . .",
             "url": "https://sophia926.github.io/fastpages/java/calculator",
             "relUrl": "/java/calculator",
             "date": " • Sep 22, 2022"
