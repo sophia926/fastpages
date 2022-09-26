@@ -35,7 +35,7 @@
   
     
         ,"post3": {
-            "title": "Less than or Greater Than",
+            "title": "Calculator",
             "content": "| JavaScript Documentation | Calculator | Food Ratings | . JavaScript program to calculate multiplication and division of two numbers . Here is a simple calculator made by Sophia Tang! . Enter two numbers in the following boxes, and then you can perform calculations :) 1st Number: 2nd Number: The Result is: . .",
             "url": "https://sophia926.github.io/fastpages/java/calculator",
             "relUrl": "/java/calculator",
