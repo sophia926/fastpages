@@ -4,7 +4,7 @@ comments: true
 title: GitHub and Git Sociology
 layout: post
 description: This is my documentation of Github and Git Sociology.
-categories: [week6]
+categories: [week7]
 ---
 
 
