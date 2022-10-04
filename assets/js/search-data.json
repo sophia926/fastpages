@@ -15,8 +15,8 @@
         ,"post1": {
             "title": "GitHub and Git Sociology",
             "content": "I created the main repository for our group project. The link is here. I shared it with all the members of my group, and they all have access. Here, you can see an image of how I shared it with my group. . We haven’t created a .gitignore file yet because all the files are useful. . We have created a couple issues on our Scrumboard, which you can see here. We have completed many tasks and are looking to do some more now :) We will start coding next week probably. . Yes, we have considered pull requests. We have established that every time one of us wants to work on the project, we will have to pull from the repo to get the latest updated version of the repo. . Yes, if there are any issues, we will link a pull request to an issue. .",
-            "url": "https://sophia926.github.io/fastpages/week6/2022/09/28/Github-Git-Sociology.html",
-            "relUrl": "/week6/2022/09/28/Github-Git-Sociology.html",
+            "url": "https://sophia926.github.io/fastpages/week7/2022/09/28/Github-Git-Sociology.html",
+            "relUrl": "/week7/2022/09/28/Github-Git-Sociology.html",
             "date": " • Sep 28, 2022"
         }
         
@@ -25,9 +25,9 @@
     
         ,"post2": {
             "title": "AWS Deployment",
-            "content": "Here is my output of curl. It shows the HTML page. .",
-            "url": "https://sophia926.github.io/fastpages/week6/2022/09/27/AWS-Deployment.html",
-            "relUrl": "/week6/2022/09/27/AWS-Deployment.html",
+            "content": "Here is my output of curl. It shows the HTML page. . Here is evidence that my flask can be accessed from my server’s public ip: .",
+            "url": "https://sophia926.github.io/fastpages/week7/2022/09/27/AWS-Deployment.html",
+            "relUrl": "/week7/2022/09/27/AWS-Deployment.html",
             "date": " • Sep 27, 2022"
         }
         
