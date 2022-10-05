@@ -12,3 +12,6 @@ Here is my output of curl. It shows the HTML page.
 
 Here is evidence that my flask can be accessed from my server's public ip:
 <img src="{{site.baseurl}}/images/week7sophiaflask.jpg">
+
+Here is evidence that our group flask can be accessed from the server's public ip:
+<img src="{{site.baseurl}}/images/week7groupproject.jpg">
