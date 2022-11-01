@@ -221,17 +221,14 @@ What’s one thing I enjoyed about my job recently?
 
 <span class="n">url</span> <span class="o">=</span> <span class="s2">"https://inspiring-quotes.p.rapidapi.com/random"</span>
 
-<span class="c1"># querystring = {"author":"Albert"}</span>
+<span class="n">querystring</span> <span class="o">=</span> <span class="p">{</span><span class="s2">"author"</span><span class="p">:</span><span class="s2">"Albert"</span><span class="p">}</span>
 
 <span class="n">headers</span> <span class="o">=</span> <span class="p">{</span>
 	<span class="s2">"X-RapidAPI-Key"</span><span class="p">:</span> <span class="s2">"222daebd02msh197e0db183672fap17cc9djsn8a1f2f813e5b"</span><span class="p">,</span>
 	<span class="s2">"X-RapidAPI-Host"</span><span class="p">:</span> <span class="s2">"inspiring-quotes.p.rapidapi.com"</span>
 <span class="p">}</span>
 
-<span class="c1"># response = requests.request("GET", url, headers=headers, params=querystring)</span>
-
-<span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">request</span><span class="p">(</span><span class="s2">"GET"</span><span class="p">,</span> <span class="n">url</span><span class="p">,</span> <span class="n">headers</span><span class="o">=</span><span class="n">headers</span><span class="p">)</span>
-
+<span class="n">response</span> <span class="o">=</span> <span class="n">requests</span><span class="o">.</span><span class="n">request</span><span class="p">(</span><span class="s2">"GET"</span><span class="p">,</span> <span class="n">url</span><span class="p">,</span> <span class="n">headers</span><span class="o">=</span><span class="n">headers</span><span class="p">,</span> <span class="n">params</span><span class="o">=</span><span class="n">querystring</span><span class="p">)</span>
 
 <span class="nb">print</span><span class="p">(</span><span class="n">response</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
 
@@ -250,8 +247,8 @@ What’s one thing I enjoyed about my job recently?
 <div class="output_area">
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>{"author":"Henri Bergson","quote":"To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."}
-Henri Bergson once said, "To exist is to change, to change is to mature, to mature is to go on creating oneself endlessly."
+<pre>{"author":"Albert Einstein","quote":"One may say the eternal mystery of the world is its comprehensibility."}
+Albert Einstein once said, "One may say the eternal mystery of the world is its comprehensibility."
 </pre>
 </div>
 </div>
