@@ -179,3 +179,58 @@ function nameGen() {
   var name = document.getElementById("user-name").value;
   document.getElementById("journal-name").innerHTML = name + "'s Journal";
 }
+
+function quotesGenn() {
+  const url = "https://lash.nighthawkcodingteams.cf/api/gratitude/";
+  const headers = {
+    method: 'GET', // *GET, POST, PUT, DELETE, etc.
+    mode: 'cors', // no-cors, *cors, same-origin
+    cache: 'default', // *default, no-cache, reload, force-cache, only-if-cached
+    credentials: 'omit', // include, *same-origin, omit
+    headers: {
+      'Content-Type': 'application/json'
+      // 'Content-Type': 'application/x-www-form-urlencoded',
+    },
+  };
+  // fetch the API
+  fetch(url, headers)
+  // response is a RESTful "promise" on any successful fetch
+  .then(response => {
+    // valid response will have json data
+    response.json().then(data => {
+        console.log(data);
+        console.log(data.question)
+  
+        // World Data
+        document.getElementById("gratituderesult").innerHTML = data.question;
+    })
+  })
+}
+
+function quoteGen() {
+  const url = "https://lash.nighthawkcodingteams.cf/api/gratitude/";
+  const headers = {
+    method: 'GET', // *GET, POST, PUT, DELETE, etc.
+    mode: 'cors', // no-cors, *cors, same-origin
+    cache: 'default', // *default, no-cache, reload, force-cache, only-if-cached
+    credentials: 'omit', // include, *same-origin, omit
+    headers: {
+      'Content-Type': 'application/json'
+      // 'Content-Type': 'application/x-www-form-urlencoded',
+    },
+  };
+  // fetch the API
+  fetch(url, headers)
+  // response is a RESTful "promise" on any successful fetch
+  .then(response => {
+    // valid response will have json data
+    response.json().then(data => {
+        console.log(data);
+        console.log(data.question)
+  
+        // World Data
+        document.getElementById("gratituderesult").innerHTML = data.question;
+    })
+  })
+
+}
