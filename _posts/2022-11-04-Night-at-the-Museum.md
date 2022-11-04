@@ -4,6 +4,7 @@ comments: true
 title: Night at the Museum
 layout: post
 description: This is my experience attending the DNHS Night at the Museum
+categories: [week9]
 ---
 
 ### Classes I visited
