@@ -3,7 +3,7 @@ toc: true
 comments: true
 title: Tri 1 Final Take Home Quiz
 layout: post
-description: This is my experience attending the DNHS Night at the Museum
+description: This is my final Collegeboard quiz for APCSP Tri 1.
 categories: [week11]
 ---
 
