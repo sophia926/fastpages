@@ -109,35 +109,43 @@ window.onload = wrap_img;
                 
                 
                 <td><img class="img-responsive py-3" id="bulb0" src="/fastpages/images/bulb_off.png" alt="" width="40" height="Auto" />
-                    <button type="button" id="butt0" onclick="javascript:toggleBit(0)">Turn on {2**i}</button>
+                    <button type="button" id="butt0" onclick="javascript:toggleBit(0)">Turn on</button>
+                    <p id="bitvalues0"></p>
                 </td>
                 
                 <td><img class="img-responsive py-3" id="bulb1" src="/fastpages/images/bulb_off.png" alt="" width="40" height="Auto" />
-                    <button type="button" id="butt1" onclick="javascript:toggleBit(1)">Turn on {2**i}</button>
+                    <button type="button" id="butt1" onclick="javascript:toggleBit(1)">Turn on</button>
+                    <p id="bitvalues1"></p>
                 </td>
                 
                 <td><img class="img-responsive py-3" id="bulb2" src="/fastpages/images/bulb_off.png" alt="" width="40" height="Auto" />
-                    <button type="button" id="butt2" onclick="javascript:toggleBit(2)">Turn on {2**i}</button>
+                    <button type="button" id="butt2" onclick="javascript:toggleBit(2)">Turn on</button>
+                    <p id="bitvalues2"></p>
                 </td>
                 
                 <td><img class="img-responsive py-3" id="bulb3" src="/fastpages/images/bulb_off.png" alt="" width="40" height="Auto" />
-                    <button type="button" id="butt3" onclick="javascript:toggleBit(3)">Turn on {2**i}</button>
+                    <button type="button" id="butt3" onclick="javascript:toggleBit(3)">Turn on</button>
+                    <p id="bitvalues3"></p>
                 </td>
                 
                 <td><img class="img-responsive py-3" id="bulb4" src="/fastpages/images/bulb_off.png" alt="" width="40" height="Auto" />
-                    <button type="button" id="butt4" onclick="javascript:toggleBit(4)">Turn on {2**i}</button>
+                    <button type="button" id="butt4" onclick="javascript:toggleBit(4)">Turn on</button>
+                    <p id="bitvalues4"></p>
                 </td>
                 
                 <td><img class="img-responsive py-3" id="bulb5" src="/fastpages/images/bulb_off.png" alt="" width="40" height="Auto" />
-                    <button type="button" id="butt5" onclick="javascript:toggleBit(5)">Turn on {2**i}</button>
+                    <button type="button" id="butt5" onclick="javascript:toggleBit(5)">Turn on</button>
+                    <p id="bitvalues5"></p>
                 </td>
                 
                 <td><img class="img-responsive py-3" id="bulb6" src="/fastpages/images/bulb_off.png" alt="" width="40" height="Auto" />
-                    <button type="button" id="butt6" onclick="javascript:toggleBit(6)">Turn on {2**i}</button>
+                    <button type="button" id="butt6" onclick="javascript:toggleBit(6)">Turn on</button>
+                    <p id="bitvalues6"></p>
                 </td>
                 
                 <td><img class="img-responsive py-3" id="bulb7" src="/fastpages/images/bulb_off.png" alt="" width="40" height="Auto" />
-                    <button type="button" id="butt7" onclick="javascript:toggleBit(7)">Turn on {2**i}</button>
+                    <button type="button" id="butt7" onclick="javascript:toggleBit(7)">Turn on</button>
+                    <p id="bitvalues7"></p>
                 </td>
                 
             </tr>
@@ -221,10 +229,12 @@ window.onload = wrap_img;
         dig.value = 0;
         image.src = IMAGE_OFF;
         butt.innerHTML = MSG_ON;
+        document.getElementById("bitvalues" + i).innerHTML = "";
         } else {
         dig.value = 1;
         image.src = IMAGE_ON;
         butt.innerHTML = MSG_OFF;
+        document.getElementById("bitvalues" + i).innerHTML = 2**(7-i);
         }
         // Binary numbers
         const binary = getBits();
@@ -257,6 +267,8 @@ window.onload = wrap_img;
         }
         }
     }
+    // function displayValue(i) {
+    // }
 </script>
 
 
