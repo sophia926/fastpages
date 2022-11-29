@@ -1,9 +1,9 @@
 ---
 toc: true
 comments: true
-title: Unit 3 Sections 1 and 2
+title: Unit 3 Sections 3 and 4
 layout: post
-description: Notes for class lesson on Monday
+description: Notes for class lesson on Tuesday
 categories: [week14]
 ---
 
