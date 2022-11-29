@@ -1,9 +1,6 @@
 ---
 keywords: fastai
-description: Here is my homework for Unit 3 Sections 1-2: Variables, Assignments, and Data Abstractions!
-title: Unit 3 Sections 1-2 Variables, Assignments, and Data Abstractions
-layout: default
-categories: [week14]
+title: Title
 nb_path: _notebooks/2022-11-28-Unit-3-Teaching.ipynb
 layout: notebook
 ---
