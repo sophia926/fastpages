@@ -79,7 +79,7 @@ window.onload = wrap_img;
        • <span class="read-time" title="Estimated read time">
     
     
-      2 min read
+      3 min read
     
 </span></p>
 
@@ -190,9 +190,17 @@ Fully programmed solution will improve your grade, at a minimum show that you tr
 <span class="n">valuelist</span> <span class="o">=</span> <span class="p">[</span><span class="mi">0</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">6</span><span class="p">,</span><span class="mi">9</span><span class="p">,</span><span class="mi">12</span><span class="p">,</span><span class="mi">15</span><span class="p">,</span><span class="mi">18</span><span class="p">,</span><span class="mi">21</span><span class="p">]</span>
 <span class="k">def</span> <span class="nf">isvalue</span><span class="p">(</span><span class="n">value</span><span class="p">,</span><span class="n">array</span><span class="p">):</span>
     <span class="c1">#--------------------</span>
-    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span> <span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">array</span><span class="p">)):</span>
-        <span class="k">if</span> <span class="p">(</span><span class="n">array</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">==</span> <span class="n">value</span><span class="p">):</span>
+
+    <span class="n">up</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">array</span><span class="p">)</span> <span class="o">-</span> <span class="mi">1</span>
+    <span class="n">down</span> <span class="o">=</span> <span class="mi">0</span>
+    <span class="k">while</span> <span class="n">up</span> <span class="o">&gt;=</span> <span class="n">down</span><span class="p">:</span>
+        <span class="n">middle</span> <span class="o">=</span> <span class="p">(</span><span class="n">up</span> <span class="o">+</span> <span class="n">down</span><span class="p">)</span> <span class="o">//</span> <span class="mi">2</span>
+        <span class="k">if</span> <span class="n">array</span><span class="p">[</span><span class="n">middle</span><span class="p">]</span> <span class="o">==</span> <span class="n">value</span><span class="p">:</span>
             <span class="k">return</span> <span class="kc">True</span>
+        <span class="k">elif</span> <span class="n">array</span><span class="p">[</span><span class="n">middle</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">value</span><span class="p">:</span>
+            <span class="n">up</span> <span class="o">=</span> <span class="n">middle</span> <span class="o">-</span> <span class="mi">1</span>
+        <span class="k">else</span><span class="p">:</span>
+            <span class="n">down</span> <span class="o">=</span> <span class="n">middle</span> <span class="o">+</span> <span class="mi">1</span>
     <span class="k">return</span> <span class="kc">False</span>
     <span class="c1">#--------------------</span>
 <span class="n">starttime</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">time</span><span class="p">()</span>
@@ -213,7 +221,7 @@ Fully programmed solution will improve your grade, at a minimum show that you tr
 <div class="output_area">
 
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>0.2864830493927002 seconds
+<pre>0.25454092025756836 seconds
 </pre>
 </div>
 </div>
