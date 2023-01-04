@@ -8,6 +8,7 @@ categories: [week17]
 ---
 
 ### Submission 1
+
 | Row | My Score | My Reasoning | Collegeboard Actual Score |
 | --- | --- | --- | --- |
 | 1 | 0 | The purpose only describes the functionality of the program, not the problem being solved. | 0 |
@@ -20,6 +21,7 @@ categories: [week17]
 **Reflection**: I graded mostly the same as Collegeboard, only for Row 3, I gave a point whereas Collegeboard did not. This is because the list does not manage complexity and is not absolutely necessary for the program. I can now see that the list is not necessary because return statements of strings would achieve the same result.
 
 ### Submission 2
+
 | Row | My Score | My Reasoning | Collegeboard Actual Score |
 | --- | --- | --- | --- |
 | 1 | 1 | The person describes the purpose as well as the functionality, which are two different things. The person also explains the inputs and outputs. | 1 |
