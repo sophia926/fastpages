@@ -22,7 +22,7 @@ categories: [week17]
 ### Submission 2
 | Row | My Score | My Reasoning | Collegeboard Actual Score |
 | --- | --- | --- | --- |
-| 1 | | 1 | The person describes the purpose as well as the functionality, which are two different things. The person also explains the inputs and outputs. | 1 |
+| 1 | 1 | The person describes the purpose as well as the functionality, which are two different things. The person also explains the inputs and outputs. | 1 |
 | 2 | 1 | The code is shown and the lists are named. | 1 |
 | 3 | 1 | The list is absolutely necessary because of the large size, there are many elements being stored, so a list is very useful. The person describes this very well. | 1 |
 | 4 | 1 | The person gives the procedure code and also describes what the procedure does. | 1 |
