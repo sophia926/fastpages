@@ -3,7 +3,9 @@ toc: true
 comments: true
 title: Project Blog
 layout: post
+description: project blog
 categories: [week20]
+---
 
 Because this is the project we are submitting for the CB CPT, each person's section of the project must meet all requirements for the CPT. It should include all the requirements, like we have been grading in our previous blogs.
 
