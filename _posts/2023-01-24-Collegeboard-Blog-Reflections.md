@@ -4,7 +4,7 @@ comments: true
 title: Collegeboard Blog Reflections
 layout: post
 description: reflections on the collegeboard topics
-categories: [week20]
+categories: [week20, week21]
 ---
 
 ### 5.1 Beneficial and Harmful Effects
@@ -31,3 +31,17 @@ categories: [week20]
     - Someone that is empowered can help someone that is not empowered by asking them what they need help with but also not embarrasing or humiliating them by doing that. Something you can do at DNHS is to join clubs that empower those who need it.
 - Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?
     - Paper isn't blocking digital empowerment because there are still things that are necessary to be on paper. DNHS does have some barriers to digital empowerment because we still do some activities on paper, such as math tests. Elsewhere, there are still barriers to digital empowerment, such as lack of funding or infrastructure, especially in third world countries.
+
+### 5.3 Computing Bias
+- Facebook VS Instagram: Facebook targets the older generation, while Instagram/Tiktok/Snapchat target the teenager population and overlal younger demographics. So Facebook is more content-driven and information-based, while the other younger social media platforms try to hop on trends to attract the younger generation's attention.
+- Virtual assistants like Alexa and Siri by default have female voices. This can potentially be harmful because it can reinforce the stereotype that women are subordinate and can only help in management, while men are the people that actually control and manage tasks. However, this can also be just a result of companies wanting to maximize profits after results from testing show that people prefer female voices over male voices.
+- Many algorithms influence your decisions because they try to get you addicted to their platform. For instance, YouTube tracks the types of videos you have watched in the past and recommends similar videos. Also, Netflix and YouTube employ autoplay to try to get you to stay on their platform longer. These algorithms also hop on trends and recommend you things that society/the general population currently likes.
+- The HP camera didn't have enough training data, or in other words it didn't have complete trianing data that encompassed all demographics, because it didn't recognize the Black person's face. THis is harmful and should be corrected by including data that is inclusive of everybody. This practice is very harmful because it makes it seem like Black people aren't real people, according to the camera/algorithm.
+
+### 5.4 Crowdsourcing
+- CompSci has 150 ish principles students. Describe a crowdsource idea and how you might initiate it in our environment?
+    - A crowdsource idea would be to gather some data from APCSP students, such as for a survey about their extracurriculars or school or their opinion on a certain topic.
+- What about Del Norte crowdsourcing? Could your project be better with crowdsourcing?
+    - Our project includes crowdsourcing from DNHS because it is actually specifically targeted towards DNHS students, as we collect the students' schedules, teachers, and other school-related information
+- What kind of data could you capture at N@tM to make evening interesting? Perhaps use this data to impress Teachers during finals week
+    - Some data that we could capture at N@TM would be to ask some students to create accounts and enter in their data on our project, and then use this to test it out, because that is the whole purpose of the project. This would showcase the function and purpose of our project very well.
