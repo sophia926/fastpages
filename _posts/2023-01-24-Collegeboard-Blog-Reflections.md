@@ -45,3 +45,26 @@ categories: [week20, week21]
     - Our project includes crowdsourcing from DNHS because it is actually specifically targeted towards DNHS students, as we collect the students' schedules, teachers, and other school-related information
 - What kind of data could you capture at N@tM to make evening interesting? Perhaps use this data to impress Teachers during finals week
     - Some data that we could capture at N@TM would be to ask some students to create accounts and enter in their data on our project, and then use this to test it out, because that is the whole purpose of the project. This would showcase the function and purpose of our project very well.
+
+### 5.5 Legal and Ethical Concerns
+- When you create a GitHub repository it requests a license type. Review the license types in relationship to this Tech Talk and make some notes in your personal blog.
+    - MIT license is pretty good. Some permissions are commercial use, distribution, modification, and private use. The limitations are liability and warranty.
+- In your blog, summarize the discussions and personal analysis on Software Licenses/Options, Digital Rights, and other Legal and Ethical thoughts from this College Board topic.
+    - Software licenses have legal implications because they aren't always followed. Digital rights are also a concern because information is still often pirated online.
+- Make a license for your personal (blog) and Team repositories for the CPT project. Be sure to have a license for both Team GitHub repositories (frontend/backend). Document license(s) you picked and why. FYI, frontend, since it is built on GitHub pages may come with a license and restrictions. Document in blog how team made license choice and process of update
+    - I have the Apache License 2.0. I chose this because the limitations are liability, trademark use, and warranty, meaning that the main conditions require preservation of copyright and license notices. I applied this license for my group project (frontend and backend) and also my personal fastpages (this blog). https://choosealicense.com/licenses/apache-2.0/
+
+### 5.6 Safe Computing
+- Describe PII you have seen on project in CompSci Principles.
+    - I have seen student names, student grades, and also student classes in CompSci Principles projects.
+- What are your feelings about PII and your personal exposure?
+    - I am insecure about PII and my personal exposure because I genuinely don't want other people to know things like my address, phone #, and the people I live with because that information should stay with me and it's insecure to have it on the web.
+- Describe good and bad passwords? What is another step that is used to assist in authentication.
+    - Good passwords are passwords that are long, are complex, and have complex characters. They also shouldn't contain PII, like birthdays. They shouldn't be simple like "qwerty" or have common dictionary words because those are easily crackable by password cracking tools, such as John the Ripper.
+    - Another step used to assist authentication is encryption, such as synchronous and async encryption. Keys are also important. This can protect your information as you send it online.
+- Try to describe Symmetric and Asymmetric encryption.
+    - Symmetric encryption is less secure because one key is used for both encryption and decryption, while in asymmetric encryption different keys are used.
+- Provide an example of encryption we used in AWS deployment.
+    - An example of encryption was the RSA and SHA keys.
+- Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+    - I learned about phishing when I received some spam emails claiming I won some awards. Some phishing techniques are to say that you can get a free thing by entering in some PII, like credit cards or addresses.
