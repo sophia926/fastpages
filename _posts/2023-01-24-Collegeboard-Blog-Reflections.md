@@ -4,7 +4,7 @@ comments: true
 title: Collegeboard Blog Reflections
 layout: post
 description: reflections on the collegeboard topics
-categories: [week20, week21]
+categories: [week20, week21, week22]
 ---
 
 ### 5.1 Beneficial and Harmful Effects
@@ -52,7 +52,11 @@ categories: [week20, week21]
 - In your blog, summarize the discussions and personal analysis on Software Licenses/Options, Digital Rights, and other Legal and Ethical thoughts from this College Board topic.
     - Software licenses have legal implications because they aren't always followed. Digital rights are also a concern because information is still often pirated online.
 - Make a license for your personal (blog) and Team repositories for the CPT project. Be sure to have a license for both Team GitHub repositories (frontend/backend). Document license(s) you picked and why. FYI, frontend, since it is built on GitHub pages may come with a license and restrictions. Document in blog how team made license choice and process of update
-    - I have the Apache License 2.0. I chose this because the limitations are liability, trademark use, and warranty, meaning that the main conditions require preservation of copyright and license notices. I applied this license for my group project (frontend and backend) and also my personal fastpages (this blog). https://choosealicense.com/licenses/apache-2.0/
+    - I have the Apache License 2.0 for my personal fastpages. I chose this because the limitations are liability, trademark use, and warranty, meaning that the main conditions require preservation of copyright and license notices. https://choosealicense.com/licenses/apache-2.0/
+    - For my group project frontend and backend, I applied the GNU GPLv3 license (https://choosealicense.com/licenses/gpl-3.0/). We created the LICENSE.md file to edit the license. We created a text file called LICENSE.md in the root of our source code (main branch) and copied the text of the license into the file. This license has the following permissions: commerical use, distribution, modification, patent use, and private use. The conditions are: disclose source, license and copyright notice, same license, and state changes. The limitations are: liability and warranty. We chose this license because others have to disclose our source if they use our code.
+<img src="{{site.baseurl}}/images/week22license.jpg">
+
+
 
 ### 5.6 Safe Computing
 - Describe PII you have seen on project in CompSci Principles.
