@@ -1,6 +1,6 @@
 ---
 title: Binary Operations
-layout: default
+layout: base
 description: Binary Operations calculator
 permalink: /frontend/binaryoperations
 categories: [week13]

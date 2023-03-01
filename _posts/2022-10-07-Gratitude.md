@@ -1,7 +1,7 @@
 ---
 title: Gratitude Questions
 comments: true
-layout: default
+layout: base
 permalink: /api/gratitude
 description: This program asks you some questions to get you thinking about gratitudes.
 categories: [week5]

@@ -1,7 +1,7 @@
 ---
 title: Food Ratings
 comments: true
-layout: default
+layout: base
 permalink: /java/foodratings
 description: This program allows you to increase the rating of a food.
 categories: [week5]

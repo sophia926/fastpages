@@ -1,7 +1,7 @@
 ---
 title: Calculator
 comments: true
-layout: default
+layout: base
 permalink: /java/calculator
 description: This program is a simple calculator.
 categories: [week5]
