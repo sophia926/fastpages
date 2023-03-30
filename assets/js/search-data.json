@@ -25,7 +25,7 @@
     
         ,"post2": {
             "title": "MCQ Quiz $4",
-            "content": "Questions I Got Wrong . I got 47/50, here you can see my score. . Here is one of the questions I got wrong. Now I realize that the answer I chose generates the customers who bought any product, not specifically the AA batteries, which is what the question calls for. . Here is the second question I got wrong. Filtering by photographer will remove any entries with unknown photographers. Filtering by year will remove any entries with unknown years. Sorting by year will sort the remaining entries in column C from least to greatest, putting the photograph with the lowest year value in the first row of the spreadsheet. Therefore, it is not needed to sort by subject. .",
+            "content": "Questions I Got Wrong . I got 47/50, here you can see my score. . Here is one of the questions I got wrong. Now I realize that X and Y can be run at the same time, and then Y finished in 50 seconds, so then Z can start running, and it will take 20 seconds after X finishes, so 80 seconds in total. . For this question, I realize now that A and D can communicate through E, so only one computer is necessary. . For this question, I now realize that the answer I chose begins at the incorrect index. A is correct because it starts at index 2 and ends at the last index. .",
             "url": "https://sophia926.github.io/fastpages/week28/2023/03/28/MCQ-Quiz-4.html",
             "relUrl": "/week28/2023/03/28/MCQ-Quiz-4.html",
             "date": " • Mar 28, 2023"
