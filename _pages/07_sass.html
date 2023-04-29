@@ -1,0 +1,59 @@
+---
+title: SASS
+permalink: /sass/
+---
+
+<html>
+  
+<head>
+    <title>Change Background Color</title>
+</head>
+  
+<body style="text-align:center;">
+  
+    <h1 style="color:green;">
+        CHANGE THE BACKGROUND COLOR SASS HACKS :D
+    </h1>
+  
+    <button onclick="yellow()">
+        Yellow
+    </button>
+    <button onclick="red()">
+        Red
+    </button>
+    <button onclick="blue()">
+        Blue
+    </button>
+ 
+    <p id="description" style="color:green; 
+                            font-size: 20px;
+                            font-weight: bold;">
+    </p>
+  
+    <script>
+        var update = document.getElementById("description");
+        var str = "Click on button to change the background color";
+                  
+                  
+        function changeColor(color) {
+            document.body.style.background = color;
+        }
+          
+        function yellow() {
+            changeColor('yellow');
+            update.innerHTML = "Background Color changed to yellow";
+        }    
+          
+          function blue() {
+              changeColor('cyan');
+              update.innerHTML = "Background Color changed to blue";
+          }     
+          
+          function red() {
+              changeColor('red');
+              update.innerHTML = "Background Color changed to red";
+          }         
+    </script>
+</body>
+  
+</html>
