@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Binary Math</title>
+</head>
+<body>
+    <form>
+        <label>Enter binary number #1</label>
+        <input id="num1">
+        <br>
+        <label>Enter binary number #2</label>
+        <input id="num2">
+    </form>
+    <button onclick = "multiplyBinaryStrings()" > Multiply Binary Numbers </button>
+
+    <br>
+    <p id="bin_result"></p>
+    <br>
+    <p id="dec_result"></p>
+
+    <script>
+
+        function multiplyBinaryStrings (){
+            let int1 = parseInt(document.getElementById("num1").value, 2);
+            let int2 = parseInt(document.getElementById("num2").value, 2);
+            console.log(int1);
+            let binresult = (int1 * int2).toString(2);
+            document.getElementById("bin_result").innerHTML = "Product in binary: " + String(binresult);
+            let decresult = parseInt(parseInt(binresult, 2), 10);
+            document.getElementById("dec_result").innerHTML = "Product in decimal: " + String(decresult);
+        }
+    </script>
+</body>
+</html>
