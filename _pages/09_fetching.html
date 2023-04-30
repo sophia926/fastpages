@@ -1,0 +1,56 @@
+---
+title: Fetching
+permalink: /fetching/
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetching</title>
+</head>
+<body>
+    <button onclick="read()">Retrieve Data</button>
+    <br>
+    <p id="confirmation"></p>
+    <br>
+    <br>
+
+    <button onclick="filter()">Filter Data (remove invalid age numbers!)</button>
+    <p id="originalData"></p>
+    <p id="filteredData">Filtered Data: </p>
+    <p id="confirmation2"></p>
+
+    <script>
+
+        var count = 0
+        var data
+
+        function read() {
+            document.getElementById("confirmation").innerText="Read function has been called"
+            data = [{"name": "Mark", "age": -1}, {"name": "Sophia", "age": 15}, {"name": "Lily", "age": 13}, {"name": "Stephanie", "age": 500}]
+            document.getElementById("originalData").innerText="Original data" + JSON.stringify(data)
+        }
+
+        function filterdata(data) {
+            console.log(data)
+        }
+
+        function filter() {
+        console.log("filtering data currently")
+        for (const row of data) {
+            console.log(parseInt(row["age"]))
+            if (parseInt(row["age"]) > 120 || parseInt(row["age"]) < 0) {
+                data.splice(data.indexOf(row), 1)
+                count = count + 1
+            }
+        }
+        document.getElementById("filteredData").innerText = "Filtered Data: " + JSON.stringify(data)
+        document.getElementById("confirmation2").innerText = String(count) + " invalid values have been removed."
+    }
+
+    </script>
+</body>
+</html>
